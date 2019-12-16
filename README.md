@@ -1,6 +1,8 @@
 # Calculadora_ISR
 
-###Visuals
+### Visuals
+![README](https://user-images.githubusercontent.com/55455793/70877290-bbc16280-1f71-11ea-8aa9-109d10ad5f1e.jpeg)
+
 
 
 ### Descripción
